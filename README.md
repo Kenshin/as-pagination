@@ -48,7 +48,7 @@ pv.offset     //偏移量
 </pre>
 
 ## 其他版本的分页组件：  
-Node.js  版：[https://github.com/kenshin/node-pagination](https://github.com/kenshin/node-pagination)
+Node.js  版：[https://github.com/kenshin/node-pagination](https://github.com/kenshin/node-pagination)  
 Javascrip版：[https://github.com/kenshin/js-pagination](https://github.com/kenshin/js-pagination)
 
 ## 更新日志：
